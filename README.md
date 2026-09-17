@@ -1,3 +1,4 @@
+![](nyan-cat.gif)
 <div align="center">
 
 # 🌷 Hello, I'm Ayu!
