@@ -56,3 +56,13 @@ Turning **raw data → meaningful insights → better decisions**.
 </div>
 
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=hallooayu&theme=dark)
+
+
+
+</div>
