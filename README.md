@@ -60,9 +60,8 @@ Turning **raw data → meaningful insights → better decisions**.
 
 <div align="center">
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=hallooayu&background=FFE4EC&border=FFB6C1&stroke=FFB6C1&ring=E75480&fire=D6336C&currStreakNum=D6336C&sideNums=7A4B5D&currStreakLabel=D6336C&sideLabels=7A4B5D)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hallooayu&theme=dark)
-
-
+![Most Used Languages](./profile/top-langs.svg)
 
 </div>
