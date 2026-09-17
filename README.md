@@ -3,7 +3,7 @@
 
 # 🌷 Hello, I'm Ayu!
 
-### `Data Analyst` 📊 · `Business Intelligence` 💻 · `Data Storyteller` ✨
+### `Data Analyst` 📊 · `Marketing` 💻 · `Designer` ✨
 
 Turning **raw data → meaningful insights → better decisions**.
 
