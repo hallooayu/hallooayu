@@ -37,16 +37,7 @@ Turning **raw data → meaningful insights → better decisions**.
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hallooayu/hallooayu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hallooayu/hallooayu/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/hallooayu
-/hallooayu
-/output/pacman-contribution-graph.svg">
-</picture>
-
-<div align="center">
-
+![Pac-Man contribution graph](https://raw.githubusercontent.com/hallooayu/hallooayu/output/pacman-contribution-graph-dark.svg)
 
 </div>
 
